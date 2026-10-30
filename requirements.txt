@@ -1,0 +1,10 @@
+
+langchain
+langchain-groq
+langchain-community
+pymongo
+redis
+streamlit
+python-dotenv
+pydantic
+sentence-transformers
